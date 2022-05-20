@@ -34,11 +34,11 @@ You can support me with some SOL : 5MyrJLqYRBoZWHZikfsPdQYv7UTjXadZuWcdKmCcMa4r
 
 1. Clone the repository / Download zip file
 
-    `https://github.com/Izouaghn/-magiceden-minting-bot.git`
+    `https://github.com/Izouaghn/solana-magiceden-minting-bot.git`
 
     OR
 
-    [Download Zip File](https://codeload.github.com/Izouaghn/-magiceden-minting-bot/zip/refs/heads/main)
+    [Download Zip File](https://codeload.github.com/Izouaghn/solana-magiceden-minting-bot/zip/refs/heads/main)
     
 
 2. Be sure you have installed Python correctly, [here is a link to download](https://www.python.org/downloads/)
