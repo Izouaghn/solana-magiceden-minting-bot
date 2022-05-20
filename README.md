@@ -9,7 +9,7 @@ Easy setup which uses ChromeDriver to open up a new chrome instance and mint the
 
 You can **launch multiple instances of the bot to bypass minting limit / wallet**
 
-You can support me with some SOL : 53Bp1wrCDzMtCS9Djw63u7BXtLNdD1dVhm5GDSaSeymC
+You can support me with some SOL : 5MyrJLqYRBoZWHZikfsPdQYv7UTjXadZuWcdKmCcMa4r
  
 ---
 
@@ -34,11 +34,11 @@ You can support me with some SOL : 53Bp1wrCDzMtCS9Djw63u7BXtLNdD1dVhm5GDSaSeymC
 
 1. Clone the repository / Download zip file
 
-    `git clone https://github.com/gunnar63/magiceden-bot.git`
+    `https://github.com/Izouaghn/-magiceden-minting-bot.git`
 
     OR
 
-    [Download Zip File](https://github.com/gunnar63/magiceden-bot/archive/refs/heads/main.zip)
+    [Download Zip File](https://codeload.github.com/Izouaghn/-magiceden-minting-bot/zip/refs/heads/main)
     
 
 2. Be sure you have installed Python correctly, [here is a link to download](https://www.python.org/downloads/)
